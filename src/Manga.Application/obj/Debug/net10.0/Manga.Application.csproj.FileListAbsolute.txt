@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\bin\Debug\net10.0\Manga.Application.deps.json
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\bin\Debug\net10.0\Manga.Application.dll
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\bin\Debug\net10.0\Manga.Application.pdb
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\bin\Debug\net10.0\Manga.Domain.dll
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\bin\Debug\net10.0\Manga.Domain.pdb
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Ap.815A3C21.Up2Date
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.dll
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\refint\Manga.Application.dll
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.pdb
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\ref\Manga.Application.dll

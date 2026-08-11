@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Manga.API/Manga.API.csproj" />
+    <Project Path="src/Manga.Application/Manga.Application.csproj" />
+    <Project Path="src/Manga.Domain/Manga.Domain.csproj" />
+    <Project Path="src/Manga.Infrastructure/Manga.Infrastructure.csproj" />
+  </Folder>
+</Solution>
