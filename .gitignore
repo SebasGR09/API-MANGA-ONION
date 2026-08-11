@@ -14,6 +14,7 @@ Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
 # Built Visual Studio Code Extensions
 *.vsix
+*.vs
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
