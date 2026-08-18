@@ -1,4 +1,5 @@
 using Manga.Application.DTO;
+using Manga.Application.Interfaces;
 using Manga.Application.Services;
 using Manga.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -9,7 +10,12 @@ namespace Manga.API.Controllers;
 [Route("api/v2/[controller]")]
 public class MangaController : ControllerBase
 {
-    private readonly MangaServices _services = new MangaServices();
+    private readonly IMangaService _services;  // Esta es una instancia del service que vamos a recibir
+
+    public MangaController(IMangaService service)  // .net nos provee la interfaz/service que indicamos en el program
+    {
+        _services = service;
+    }
 
     [HttpGet]
     public IActionResult GetMangas()

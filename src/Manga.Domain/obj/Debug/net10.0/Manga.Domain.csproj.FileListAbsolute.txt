@@ -9,3 +9,4 @@ C:\Users\Dell\Desktop\Onion\src\Manga.Domain\obj\Debug\net10.0\Manga.Domain.dll
 C:\Users\Dell\Desktop\Onion\src\Manga.Domain\obj\Debug\net10.0\refint\Manga.Domain.dll
 C:\Users\Dell\Desktop\Onion\src\Manga.Domain\obj\Debug\net10.0\Manga.Domain.pdb
 C:\Users\Dell\Desktop\Onion\src\Manga.Domain\obj\Debug\net10.0\ref\Manga.Domain.dll
+C:\Users\Dell\Desktop\Onion\src\Manga.Domain\obj\Debug\net10.0\Manga.Domain.sourcelink.json

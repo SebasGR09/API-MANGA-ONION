@@ -13,3 +13,4 @@ C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Applic
 C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\refint\Manga.Application.dll
 C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.pdb
 C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\ref\Manga.Application.dll
+C:\Users\Dell\Desktop\Onion\src\Manga.Application\obj\Debug\net10.0\Manga.Application.sourcelink.json
